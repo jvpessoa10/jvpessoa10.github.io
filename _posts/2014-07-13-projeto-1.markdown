@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2018-02-01
+img: tangram.png
+alt: image-alt
+project-date: Janeiro, 2018
+client: Funape
+category: Web Development
+description: O Projeto Tangram, grupo o qual ficou responsável pelo instituto da FUNAPE(Fundação de Aposentadoria e Pensões dos Servidores do Estado de Pernambuco), um órgão do governo que gere a folha de pensionistas e aposentados do estado de Pernambuco e apresenta programas de auxílio e planejamento da aposentadoria dos idosos, a exemplo, o Programa Vida Ativa, gerenciado por Andréia (representante da FUNAPE e Programa Vida Ativa para a equipe), por intermédio de entrevistas com Andréia (dispõe de amplo conhecimento acerca dos idosos), a equipe pode se situar quanto a problemática a ser tratada (dificuldades de inserção do idoso às tecnologias que abrangem o dia a dia da sociedade), desígnio da pesquisa (facilitar e diminuir o número de etapas necessárias para acessar determinadas funcionalidades encontradas no celular), e aquisição de dados suficientes para definir as estratégias de pesquisa a serem seguidas (metodologia de pesquisa). A pesquisa atual estuda e tem como problema e objetivo a dificuldade de inserção do público idoso às tecnologias que abrangem o dia a dia da sociedade, e facilitar o uso da mesma.
+
+
+---
